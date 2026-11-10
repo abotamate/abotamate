@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhinav 👋
 
-<!--
-**abotamate/abotamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Network Engineer based in Doha, Qatar, with ~10 years designing and running enterprise networks.
 
-Here are some ideas to get you started:
+**Certifications:** CCIE Enterprise · HCIE Datacom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Enterprise LAN/WAN, data center and campus networks
+- Network automation with Python, Ansible and Netmiko
+- Hybrid cloud networking and security
+- Cisco, Huawei, Fortinet and Palo Alto platforms
+
+## Currently
+
+- Building network automation tools and labs
+- Learning cloud security
+
+## Tech
+
+`Cisco IOS-XE` `Huawei VRP` `FortiOS` `PAN-OS` `Python` `Ansible` `AWS` `Linux`
